@@ -24,6 +24,9 @@ Place Not Sure buttons on the pages you want to ask customers why they are unsur
 <p>
 Create Not sure buttons and place the shortcode in your posts.
 </p>
+<p>
+Enjoy!
+</p>
 <?php
 }
 ?>
