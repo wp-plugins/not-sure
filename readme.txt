@@ -1,6 +1,6 @@
 === Not Sure ===
 Contributors: softpill.eu
-Donate link: http://www.softpill.eu/payment
+Donate link: http://www.softpill.eu/not-sure-plugin
 Tags: comments, ask a question, customer not sure
 Requires at least: 4.0.0
 Tested up to: 4.2.2
