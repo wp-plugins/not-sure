@@ -19,7 +19,7 @@ function sp_ns_about(){
 ?>
 <h2>About Not Sure</h2>
 <p>Thank you for installing Not Sure on your Wordpress website, we hope you like our plugin.</p>
-<p>Don't forget to <a href="http://www.softpill.eu/not-sure-plugin" target="_blank">rate the plugin</a>.</p>
+<p>Don't forget to <a href="https://wordpress.org/plugins/not-sure/" target="_blank">rate the plugin</a>.</p>
 <p>Visit <a href="http://www.softpill.eu/" target="_blank">softpill.eu</a> for more great extensions.</p>
 
 <h2>How Not Sure works</h2>
